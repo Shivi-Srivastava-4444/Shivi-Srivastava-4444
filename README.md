@@ -15,14 +15,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivi-Srivastava-4444&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🚀 My Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivi-Srivastava-4444/Shivi-Srivastava-4444/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivi-Srivastava-4444/Shivi-Srivastava-4444/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Shivi-Srivastava-4444/Shivi-Srivastava-4444/output/galaga-contribution-graph.svg">
+</picture>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shivi-Srivastava-4444&icon=0&color=0)](https://visitcount.itsvg.in)
