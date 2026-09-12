@@ -18,6 +18,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 [![](https://komarev.com/ghpvc/?username=Shivi-Srivastava-4444&icon=0&color=0)](https://visitcount.itsvg.in)
 
