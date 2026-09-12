@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=Shivi-Srivastava-4444&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivi-Srivastava-4444&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies</h2> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shivi-Srivastava-4444&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 </p>
