@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello..!! My name is Shivi Srivastava
+# Hi..!! My name is Shivi Srivastava
 
 ### AI/ML Student • Computer Vision • Hyperspectral Imaging • Space & Defence Technology
 
